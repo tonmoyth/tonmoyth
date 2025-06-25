@@ -16,7 +16,7 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,netlify,vercel" />
 </p>
 
 <h3>🛠️ Languages and Tools</h3>
