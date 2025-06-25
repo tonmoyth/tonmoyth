@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/banner.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Nurislam Hasan Tonmoy</h1>
+<img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/banner.png" alt="GitHub Banner" width="100%" />
+
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
 <p align="left"> 🚀 Passionate about building modern web apps, learning new tech, and solving problems.</p>
