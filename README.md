@@ -27,7 +27,16 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
 </a>
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyth&show_icons=true&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyth&layout=compact&theme=tokyonight" height="150px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyth&theme=tokyonight" height="150px" />
+</p>
 
 
 
