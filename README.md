@@ -15,9 +15,9 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,git,github,vscode,figma,netlify,vercel" />
-</p>
+<a href="https://www.linkedin.com/in/nurislam-hasan-tonmoy-88b1bb368/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+</a>
 
 ## 🌐 Connect with Me
 
