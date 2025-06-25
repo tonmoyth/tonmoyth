@@ -1,4 +1,4 @@
-<img src="https://github.com/tonmoyth/tonmoyth/master/banner.png" alt="Mokkapps GitHub README header image">
+<img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/banner.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Nurislam Hasan Tonmoy</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
