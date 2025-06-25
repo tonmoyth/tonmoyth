@@ -27,9 +27,6 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
 </a>
 
-<a href="mailto:tonmoynht1930@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" />
-</a>
 
 
 
