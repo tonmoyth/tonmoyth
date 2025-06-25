@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/banner.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/github-banner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Nurislam Hasan Tonmoy 👨‍💻</h1>
 <h3 align="center">Developer | Passionate Coder | Lifelong Learner</h3>
