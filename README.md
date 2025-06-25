@@ -22,7 +22,7 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/tonmoyth" target="_blank"><img src="https://www.linkedin.com/in/nurislam-hasan-tonmoy-88b1bb368/" /></a>
+  <a href="https://www.linkedin.com/in/nurislam-hasan-tonmoy-88b1bb368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h3>🛠️ Languages and Tools</h3>
 <p>
