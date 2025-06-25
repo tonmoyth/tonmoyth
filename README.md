@@ -1,4 +1,4 @@
-<img src="https://github.com/tonmoyth/tonmoyth/master/Purple Abstract Graphic Design LinkedIn Article Cover Image.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/tonmoyth/tonmoyth/master/banner.png" alt="Mokkapps GitHub README header image">
 <h1 align="center">Hi 👋, I'm Nurislam Hasan Tonmoy</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
