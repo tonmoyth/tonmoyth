@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nurislam Hasan Tonmoy</h1>
 <img src="https://raw.githubusercontent.com/tonmoyth/tonmoyth/main/banner.png" alt="GitHub Banner" width="100%" />
 
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
+<h1 align="center">Hi, I'm Nurislam Hasan Tonmoy 👨‍💻</h1>
+<h3 align="center">Developer | Passionate Coder | Lifelong Learner</h3>
 
-<p align="left"> 🚀 Passionate about building modern web apps, learning new tech, and solving problems.</p>
+## 🧑‍💻 About Me
+<p align="left">Hi! I'm Nurislam Hasan Tonmoy, a passionate Full Stack Web Developer from Bangladesh.
+I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love crafting web applications that are clean, fast, and user-friendly.</p>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and Firebase**
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio.com)
-- 📫 Reach me at: **tonmoynht1930@gmail.com**
-- 💬 Ask me about: **React, Node.js, MongoDB, Express, Tailwind**
-- 🧠 Fun Fact: I love debugging more than coding 😄
+### 🚀 Currently Working On:
+- 🧪 Exploring **Next.js** and **TypeScript**
+- 🚚 Building a **Product Delivery Web Application**
+- 🧾 Learning **Payment Integration** using **Stripe**
+- 🤝 Contributing to **Open-Source Projects**
+
 
 <h3>🛠️ Languages and Tools</h3>
 <p>
