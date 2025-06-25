@@ -23,6 +23,17 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
 
+<a href="https://www.facebook.com/yourfacebookprofile](https://www.facebook.com/nurislamhasantonmoyth" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
+</a>
+
+<a href="mailto:tonmoynht1930@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" />
+</a>
+
+
+
+
 </p>
 <h3>🛠️ Languages and Tools</h3>
 <p>
