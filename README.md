@@ -13,6 +13,11 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
 - 🧾 Learning **Payment Integration** using **Stripe**
 - 🤝 Contributing to **Open-Source Projects**
 
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
+</p>
 
 <h3>🛠️ Languages and Tools</h3>
 <p>
