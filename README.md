@@ -10,7 +10,6 @@ I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love
 ### 🚀 Currently Working On:
 - 🧪 Exploring **Next.js** and **TypeScript**
 - 🚚 Building a **Product Delivery Web Application**
-- 🧾 Learning **Payment Integration** using **Stripe**
 - 🤝 Contributing to **Open-Source Projects**
 
 ## 🛠️ Skills & Tools
