@@ -8,7 +8,7 @@
 I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love crafting web applications that are clean, fast, and user-friendly.</p>
 
 ### 🚀 Currently Working On:
-- 🧪 Exploring **Next.js** and **prisma**
+- 🧪 Exploring **prisma**
 - 🚚 Building a **Product Delivery Web Application**
 - 🤝 Contributing to **Open-Source Projects**
 
